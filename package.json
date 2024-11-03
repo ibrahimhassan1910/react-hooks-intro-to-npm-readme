@@ -4,7 +4,7 @@
   "description": "An introduction to npm and package.json",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'hot dog'"
+    "test": "echo 'Hassan changed this'"
   },
   "dependencies": {
     "is-number": "^7.0.0"
